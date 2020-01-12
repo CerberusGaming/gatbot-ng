@@ -1,1 +1,2 @@
 git+https://github.com/CerberusGaming/discordbot-base.git
+requests
